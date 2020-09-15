@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * 
+ * program to see if you are old enough to vote or drive
  * @author Darian Pajic
  */
 public class Main {
